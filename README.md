@@ -42,7 +42,7 @@ Application for tracking income and expenses.
 It uses Next.js with [Neon](https://fyi.neon.tech/traversy) for getting data and [Clerk](https://go.clerk.com/BsG2XQJ) for authentication.
 
 
-[Try here](https://traversydemos.dev)
+Click here to try -> [Try here](https://expense-tracker-gamma-seven-39.vercel.app/)
 
 <div style="text-align:center;margin:30px auto;">
   <img src="public/img-1.png" alt="" width="500" style="margin: 0 auto;" />
