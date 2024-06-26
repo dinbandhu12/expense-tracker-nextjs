@@ -5,7 +5,7 @@
 ### Clone this github repo
 
 ```bash
-git clone 
+git clone https://github.com/dinbandhu12/expense-tracker-nextjs.git
 ```
 
 ### Open in VS Code editor then
